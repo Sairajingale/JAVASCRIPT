@@ -6,22 +6,22 @@
 // console.log(num1)
 // console.log(typeof num1)
 
-// console.log(typeof num1.toString().length);
+// console.log(typeof num1.toString().length);    //converts number to string and gives length of string
 
-// console.log(num1.toFixed(2));
+// console.log(num1.toFixed(2));            //value upto 2 decimal places
 
-// console.log(num1.toPrecision(4));
+// console.log(num1.toPrecision(4));    //value upto 4 digits 
 
 
 //--------------------------------------------------//
 // const anynum = 5000.400
-// console.log(Math.random())
-// console.log(Math.round(anynum))
-// console.log(Math.abs(anynum))
-// console.log(Math.floor(anynum))
-// console.log(Math.ceil(anynum))
-// console.log(Math.min(anynum))
-// console.log(Math.max(anynum))
+// console.log(Math.random())               //generates random number between 0 and 1
+// console.log(Math.round(anynum))         //rounds off to nearest number
+// console.log(Math.abs(anynum))          //absolute value remove negative sign
+// console.log(Math.floor(anynum))        //rounds down lowest number
+// console.log(Math.ceil(anynum))         //rounds up highest number
+// console.log(Math.min(anynum))          //gives minimum value
+// console.log(Math.max(anynum))         //gives maximum value
 
 
 // Ludo Dice 
