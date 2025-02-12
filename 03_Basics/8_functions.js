@@ -46,4 +46,4 @@ function productName(products){
 }
 
 console.log(productName(products)); // Iphone is the best smartphone brand
-console.log(productName(['oppo'])); 
+console.log(productName(['oppo'])): // oppo is the best smartphone brand
